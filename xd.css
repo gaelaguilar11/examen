@@ -1,0 +1,10 @@
+#miDiv {
+    background-color: #ff9999; /* Color de fondo */
+    color: #333; /* Color del texto */
+    border: 2px solid #666; /* Color del borde */
+    border-radius: 10px; /* Borde redondeado */
+    padding: 20px; /* Espaciado interno */
+    width: 200px; /* Ancho del div */
+    text-align: center; /* Alineación del texto */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+}
